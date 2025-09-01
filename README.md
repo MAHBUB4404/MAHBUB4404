@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Mahbub  
-
-🎓 Undergraduate **Statistics Student** | 📊 Aspiring **Data Scientist**  
-Turning **data into insights** with a mix of **analytics, visualization, and machine learning**.  
+<!-- Typing animation header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mahbub+👋;Statistics+Student+%7C+Future+Data+Scientist;Data+Science+%7C+Machine+Learning+Enthusiast" alt="Typing Animation" />
+</h1>
 
 ---
 
@@ -42,8 +42,12 @@ Here are some projects I’ve worked on (links coming soon):
 
 <div align="center">
 
-| Python 🐍 | Power BI 📊 | Excel 📑 | SPSS 📈 | R 📘 |
-|-----------|-------------|----------|---------|------|
+<!-- Animated skill badges -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/SPSS-003366?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 
 </div>
 
@@ -65,3 +69,7 @@ I aim to grow from a **Data Analyst into a Data Scientist**, applying **statisti
 
 ---
 
+<!-- Dashboard stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blue&style=flat-square" alt="Profile views" />
+</p>
